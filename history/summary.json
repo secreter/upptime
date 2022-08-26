@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/redream.cn",
     "slug": "redream",
     "status": "up",
-    "uptime": "96.08%",
-    "uptimeDay": "96.08%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "96.08%",
-    "uptimeYear": "96.08%",
+    "uptime": "97.41%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "97.41%",
     "time": 4279,
     "timeDay": 4279,
     "timeWeek": 4279,
@@ -24,19 +24,19 @@
     "url": "https://baidu.com",
     "icon": "https://favicons.githubusercontent.com/baidu.com",
     "slug": "baidu",
-    "status": "up",
-    "uptime": "96.65%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.65%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 4898,
     "timeDay": 4898,
     "timeWeek": 4898,
     "timeMonth": 4898,
     "timeYear": 4898,
     "dailyMinutesDown": {
-      "2022-08-26": 15
+      "2022-08-26": 0
     }
   }
 ]
